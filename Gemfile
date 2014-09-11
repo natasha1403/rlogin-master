@@ -102,4 +102,12 @@ gem 'haml'
 gem 'html2haml'
 gem 'haml-rails'
 
+# for continuous intergration
+gem 'ci_reporter_cucumber'
+gem 'ci_reporter_minitest'
+gem 'ci_reporter_rspec'
+gem 'ci_reporter_spinach'
+gem 'ci_reporter_test_unit'
+
+
 ruby "2.0.0"
