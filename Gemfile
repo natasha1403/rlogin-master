@@ -102,4 +102,7 @@ gem 'haml'
 gem 'html2haml'
 gem 'haml-rails'
 
+# for continuous integration implementation
+gem 'ci-reporter'
+
 ruby "2.0.0"
